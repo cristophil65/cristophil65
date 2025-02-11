@@ -1,0 +1,13 @@
+{
+    "name": "seo-extension",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+      "dev": "vite"
+    },
+    "dependencies": {
+      "vite": "^4.2.0",
+      "crxjs": "^3.5.0"
+    }
+  }

@@ -1,0 +1,7 @@
+{
+    "name": "SEO Analysis Extension",
+    "version": "1.0",
+    "permissions": ["activeTab", "storage"],
+    "background": {"service_worker": "src/background.js"},
+    "action": {"default_popup": "popup.html"}
+  }
